@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "image-1.png",
+      "sha256": "08dcbdd7a8be6bfe0190b598d5bda5a36a8bc777ef00536a28ae6c78a72ef12a"
+    },
+    {
+      "name": "image-2.png",
+      "sha256": "6119bccc994c118bbe0928cddb09c941883734c2153d5766cafc18f364334a04"
+    },
+    {
+      "name": "image-3.png",
+      "sha256": "508588a0e53d805d773a40f2b36dacbbcfc08ebbbf5f6754635d158adb3ac092"
+    },
+    {
+      "name": "image-4.png",
+      "sha256": "608bb0f2b5fa9f834f80e511e14bfef705a74902508ea8931c15d443a492e80c"
+    },
+    {
+      "name": "image-5.png",
+      "sha256": "6732c58fcd696e24ee26b287ddb2ecf89be6a5b50d9a7035e509469e9023c520"
+    },
+    {
+      "name": "image.png",
+      "sha256": "fdb9684ea99ad5b9207ed6a2194112e4c0d4a4a2df22a19df9095f66d6457be3"
+    }
+  ],
+  "documents": {
+    "README.md": [
+      "image-1.png",
+      "image-2.png",
+      "image-3.png",
+      "image-4.png",
+      "image-5.png",
+      "image.png"
+    ]
+  },
+  "pending": {}
+}
